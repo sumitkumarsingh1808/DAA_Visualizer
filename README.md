@@ -19,12 +19,6 @@ This project is especially useful for beginners and for interview preparation.
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots of your application here to make the README more attractive._
-
----
-
 ## 🚀 Getting Started
 
 Follow these instructions to run the project locally.
